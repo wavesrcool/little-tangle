@@ -15,4 +15,11 @@
 # direnv cache
 .direnv
 
-_old/
+# dev edit folder
+.edit
+
+# unsecure node keys
+.keys
+
+
+
