@@ -12,7 +12,7 @@ then
    echo "Error. Node number must be single integer." >&2; exit 1
 fi
 
-DIRECTORY_BASE_PATH="/tmp/little-tangle_node0$NODE_NUMBER"
+DIRECTORY_BASE_PATH=".little-tangle/.tmp/little-tangle_node0$NODE_NUMBER"
 
 rm -rf "$DIRECTORY_BASE_PATH"
 

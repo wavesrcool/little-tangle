@@ -12,7 +12,7 @@ if ! [[ $NODE_NUMBER =~ $RE ]] ; then
 fi
 
 
-KEYS_DIRECTORY=".keys"
+KEYS_DIRECTORY=".little-tangle/.keys"
 KEY_FILE_NAME="KEYS-NODE-0$NODE_NUMBER-AURA.txt"
 KEY_FILE_PATH="$KEYS_DIRECTORY/$KEY_FILE_NAME"
 

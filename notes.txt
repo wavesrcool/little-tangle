@@ -1,0 +1,4 @@
+1: Response to: https://github.com/paritytech/substrate/issues/11855
+
+- use local node id for bootnodes:
+12D3KooWGvAZb4g1iztg8DyRPZv1rgcVor78GmwJRzGh8uigRRph

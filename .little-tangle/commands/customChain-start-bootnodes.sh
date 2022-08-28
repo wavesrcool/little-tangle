@@ -20,7 +20,7 @@ then
    echo "Error. Must present node identity." >&2; exit 1
 fi
 
-DIRECTORY_BASE_PATH="/tmp/little-tangle_node0$NODE_NUMBER"
+DIRECTORY_BASE_PATH=".little-tangle/.tmp/little-tangle_node0$NODE_NUMBER"
 
 NODE_NAME="LittleTangleNode0$NODE_NUMBER"
 
