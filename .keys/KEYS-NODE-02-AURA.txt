@@ -1,0 +1,7 @@
+Secret phrase:       junior tower point quarter all palm arctic project inject friend puzzle tired
+  Network ID:        substrate
+  Secret seed:       0xc5bcc76311df4cef49698165579e818aed3a6488175c9caac367820a0dad03ab
+  Public key (hex):  0xce4956349d83590637eb0802ebb853c1d1c3d94304524f3a927e9cb570b8c606
+  Account ID:        0xce4956349d83590637eb0802ebb853c1d1c3d94304524f3a927e9cb570b8c606
+  Public key (SS58): 5GjBWMhxtXUKpvpfS9iFcR15kUX8SeCxE7KZZSDiWV5buF7c
+  SS58 Address:      5GjBWMhxtXUKpvpfS9iFcR15kUX8SeCxE7KZZSDiWV5buF7c

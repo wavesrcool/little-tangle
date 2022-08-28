@@ -1,0 +1,7 @@
+Secret phrase:       street scrap refuse drop earn elegant first ugly clever rail purchase mosquito
+  Network ID:        substrate
+  Secret seed:       0xc5ef9b49e7574367f950eeb5bc614ad0c883292fc2fbf446e51006b3c76ca71c
+  Public key (hex):  0xd278917e5700c5cb0893301bced4cc19aea4f5bef0a78f4fecdf71b4a01b2c6f
+  Account ID:        0xd278917e5700c5cb0893301bced4cc19aea4f5bef0a78f4fecdf71b4a01b2c6f
+  Public key (SS58): 5GpfjFNANPq4ibgH6BAHNDde2jRiJ5LkCa5eYF2tS9TPRknX
+  SS58 Address:      5GpfjFNANPq4ibgH6BAHNDde2jRiJ5LkCa5eYF2tS9TPRknX
